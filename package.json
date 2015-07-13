@@ -1,0 +1,14 @@
+{
+  "name": "cross-the-streams",
+  "version": "1.0.0",
+  "description": "Fiddling with compression, uncompression and multiple streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lzma-native": "^0.2.12"
+  }
+}
