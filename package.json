@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lzma-native": "^0.2.12"
+    "lzma-native": "^0.2.13"
   }
 }
